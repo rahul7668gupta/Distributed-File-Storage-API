@@ -25,3 +25,6 @@
 - **Response**: 
   - Success: File download starts
   - Error: `{"error": "<error_message>"}`
+
+## Sample Working Video
+[[Upload, Download and Get Files Api sample working video]](https://jmp.sh/s/3fXEtGIVtcGC3LwMgMTb)
